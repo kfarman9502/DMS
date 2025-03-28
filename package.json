@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.3",
+    "@tensorflow-models/mobilenet": "^2.1.1",
+    "@tensorflow/tfjs": "^4.22.0",
+    "axios": "^1.8.4",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "globe.gl": "^2.41.3",
+    "jsonwebtoken": "^9.0.2",
+    "leaflet": "^1.9.4",
+    "leaflet-routing-machine": "^3.2.12",
+    "mysql": "^2.18.1",
+    "react-leaflet": "^5.0.0",
+    "react-router-dom": "^7.4.0",
+    "three": "^0.174.0"
+  },
+  "name": "dms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
